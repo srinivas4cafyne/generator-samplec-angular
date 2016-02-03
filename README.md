@@ -1,4 +1,4 @@
-#generator-cg-angular
+#generator-samplec-angular
 
 >Yeoman Generator for Enterprise Angular Projects
 
